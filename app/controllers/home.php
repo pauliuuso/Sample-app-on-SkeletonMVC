@@ -15,13 +15,13 @@ class Home extends Controller
     
     public function login()
     {
-        $login = $this->model("Login");
+        $login = $this->model("login");
         $login->loginUser();
     }
     
     public function logout()
     {
-        $login = $this->model("Login");
+        $login = $this->model("login");
         $login->logoutUser();
     }
     

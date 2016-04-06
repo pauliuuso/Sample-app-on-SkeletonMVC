@@ -6,7 +6,7 @@ class Login
     {
         $username = $_POST["username"];
         $password = sha1($_POST["password"]);
-        $sql = "SELECT * FROM USERS WHERE name = '$username' AND password = '$password'";
+        $sql = "SELECT * FROM users WHERE name = '$username' AND password = '$password'";
         $return = CON::load()->checkUser($sql);
         if($return)
         {
