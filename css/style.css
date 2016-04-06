@@ -1,0 +1,26 @@
+html,
+body {
+  background: #007991;
+}
+.main-container {
+  background: #f5f4ee;
+}
+.text-grey {
+  color: lightslategrey;
+}
+.float-right {
+  float: right;
+}
+.margin-bottom-50 {
+  margin-bottom: 50px;
+}
+.margin-top-10 {
+  margin-top: 10px;
+}
+.padding-0 {
+  padding: 0px;
+}
+.margin-0 {
+  margin: 0px;
+}
+/*# sourceMappingURL=style.css.map */

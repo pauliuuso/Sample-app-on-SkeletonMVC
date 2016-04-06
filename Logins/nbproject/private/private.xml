@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/www/logins/app/views/dashboard.php</file>
+            <file>file:/C:/www/logins/app/controllers/dashboard.php</file>
+            <file>file:/C:/www/logins/app/models/getNotifications.php</file>
+            <file>file:/C:/www/logins/app/views/index.php</file>
+            <file>file:/C:/www/logins/app/controllers/home.php</file>
+            <file>file:/C:/www/logins/config.php</file>
+            <file>file:/C:/www/logins/app/models/login.php</file>
+            <file>file:/C:/www/logins/css/style.less</file>
+            <file>file:/C:/www/logins/app/models/addNotification.php</file>
+            <file>file:/C:/www/logins/app/core/controller.php</file>
+            <file>file:/C:/www/logins/app/core/app.php</file>
+        </group>
+    </open-files>
+</project-private>
